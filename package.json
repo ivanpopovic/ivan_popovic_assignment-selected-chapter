@@ -25,6 +25,7 @@
   "homepage": "https://github.com/multimediatechnology/assignment-frontend#readme",
   "devDependencies": {
     "babel": "^5.8.29",
+    "babel-eslint": "^6.0.2",
     "mocha": "^2.3.3",
     "should": "^7.1.0",
     "uuid": "^2.0.1",
